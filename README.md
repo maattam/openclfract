@@ -10,4 +10,4 @@ texture screen-oriented quad.
 Screenshots
 -----------
 
-[![screenshot]()]()
+[![screenshot](https://bitbucket.org/naamakala/openclfract/raw/2eab9d104cecdb8cbc7f7f1f85475f13629a3afc/images/openclfract.jpg)](https://bitbucket.org/naamakala/openclfract/raw/2eab9d104cecdb8cbc7f7f1f85475f13629a3afc/images/openclfract.jpg)
