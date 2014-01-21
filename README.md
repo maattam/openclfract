@@ -7,7 +7,13 @@ Openclfract allows the user to explore the mandelbrot set. The fractal is genera
 which outputs the image to a pre-allocated OpenGL texture. The texture is displayed on screen by drawing a
 textured screen-oriented quad.
 
+Author
+------
+Matti Määttä ([maatta.matti@gmail.com])
+
 Screenshots
 -----------
 
 [![screenshot](https://bitbucket.org/maattam/openclfract/raw/2eab9d104cecdb8cbc7f7f1f85475f13629a3afc/images/openclfract.jpg)](https://bitbucket.org/maattam/openclfract/raw/2eab9d104cecdb8cbc7f7f1f85475f13629a3afc/images/openclfract.jpg)
+
+[maatta.matti@gmail.com]: mailto:maatta.matti@gmail.com
